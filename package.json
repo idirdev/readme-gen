@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/readme-gen",
+  "version": "1.0.0",
+  "description": "Generate README.md from package.json metadata",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/readme-gen.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "readme-gen": "bin/cli.js"
+  }
+}
