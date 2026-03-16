@@ -18,5 +18,9 @@
   },
   "bin": {
     "readme-gen": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/readme-gen",
+  "bugs": {
+    "url": "https://github.com/idirdev/readme-gen/issues"
   }
 }
